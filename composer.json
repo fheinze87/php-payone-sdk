@@ -1,5 +1,5 @@
 {
-    "name": "cakasim/payone-sdk",
+    "name": "fheinze87/payone-sdk",
     "description": "A SDK for PAYONE payment integration.",
     "type": "library",
     "keywords": [
